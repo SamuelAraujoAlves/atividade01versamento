@@ -1,7 +1,7 @@
 Atividade sobre versionamento do curso Full Stack ministrado pelo Senai
 Tutor: Eduardo Mendes da Costa
 
-Aluno: Alexandre Hoss
+Aluno:Samuel de Araujo Alves
 
 Resumos das atividades
 Acesse o site https://git-scm.com/downd/win .
